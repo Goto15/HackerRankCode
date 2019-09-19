@@ -1,2 +1,2 @@
-# Sorting
-Code for the Goto15 Podcast to demonstrate different sorting algorithms. 
+# HackerRank Code
+Saved code from HackerRank problems.
